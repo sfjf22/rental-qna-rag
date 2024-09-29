@@ -3,6 +3,9 @@ This is a RAG (Retrieval Augmented Generation) application. The user can ask que
 - sample_pet_policy.pdf
 - sample_renters_insurance.pdf
 
+## RAG Application Flow
+<img width="1053" alt="Screenshot 2024-09-29 at 11 34 04 AM" src="https://github.com/user-attachments/assets/ed0b70f3-90d7-4513-97ba-573a96ec1aa3">
+
 ## Sample question and answer
 - Question
    ```
